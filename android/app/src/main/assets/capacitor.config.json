@@ -1,0 +1,5 @@
+{
+	"appId": "com.assetmanager.app",
+	"appName": "Asset Manager",
+	"webDir": "dist/public"
+}
