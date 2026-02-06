@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.assetmanager",
+  "appName": "Asset Manager",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
